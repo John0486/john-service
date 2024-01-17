@@ -10,7 +10,7 @@ export default function ErrorPage({ isDarkMode }) {
   return (
     <>
       <SplashSection
-        splashMessage={"404! Page Not Found"}
+        splashMessage={"Welcome to John"}
         isDarkMode={isDarkMode}
         isErrorMode={true}
       />
