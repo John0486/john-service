@@ -10,7 +10,7 @@ export default function ErrorPage({ isDarkMode }) {
   return (
     <>
       <SplashSection
-        splashMessage={"Welcome to John"}
+        splashMessage={"Welcome to John-Site"}
         isDarkMode={isDarkMode}
         isErrorMode={true}
       />
